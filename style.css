@@ -1,0 +1,25 @@
+.wrapper {
+	display: grid;
+	grid-template-columns: 800px;
+	grid-template-rows: 80px 530px;
+	background-color: orange;
+	color: #000000;
+}
+
+.header {
+	grid-column-start: 1;
+	grid-column-end: 3;
+	grid-row-start: 1;
+	grid-row-end: 2;
+	text-align: center;
+	font-style: italic;
+}
+
+.sitebar {
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 2;
+	grid-row-end: 3;
+	font-size: 17px;
+	text-indent: 30px;
+}
