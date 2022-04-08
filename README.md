@@ -1,1 +1,1 @@
-Website "Economy".
+<h1 align="left">Website "Economy".
