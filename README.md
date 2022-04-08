@@ -1,1 +1,1 @@
-<h1 align="left">Economy.
+<h1 align="left">Economy
