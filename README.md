@@ -6,3 +6,4 @@
 <h2>The composition of the mobile application</h2>
 <p>The mobile application consists of a common forms, catalogs, documents and accumulation registers.</p>
 <p><b>Common forms</b> are the desktop.</p>
+<p><b>Catalogs:</b> wallets, articles.</p>
