@@ -4,3 +4,4 @@
 <p>A simple accounting system that takes into account income and expenses in the context of wallets and items by transaction amounts, and also allows you to quickly track the current balance of money in used wallets and analyze financial turnover by items.</p>
 <p>The application was developed and created taking into account its future use on mobile devices – so that cash accounting is always at hand.</p>
 <h2>The composition of the mobile application</h2>
+<p>The mobile application consists of a desktop on which there are several sections: reference books, documents and accumulation registers.</p>
