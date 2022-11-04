@@ -7,3 +7,4 @@
 <p>The mobile application consists of a common forms, catalogs, documents and accumulation registers.</p>
 <p><b>Common forms</b> are the desktop.</p>
 <p><b>Catalogs:</b> wallets, articles.</p>
+<p><b>Documents:</b> income, expense.</p>
