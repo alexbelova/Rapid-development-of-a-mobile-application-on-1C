@@ -8,3 +8,4 @@
 <p><b>Common forms</b> are the desktop.</p>
 <p><b>Catalogs:</b> wallets, articles.</p>
 <p><b>Documents:</b> income, expense.</p>
+<p><b>Accumulation registers:</b> wallets, expenses.</p>
