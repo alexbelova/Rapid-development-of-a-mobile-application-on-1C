@@ -5,3 +5,4 @@
 <p>The application was developed and created taking into account its future use on mobile devices – so that cash accounting is always at hand.</p>
 <h2>The composition of the mobile application</h2>
 <p>The mobile application consists of a common forms, catalogs, documents and accumulation registers.</p>
+<p><b>Common forms</b> are the desktop.</p>
